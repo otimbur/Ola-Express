@@ -1,4 +1,4 @@
-# Use this as a template for your Node.js projects in repl.it
+# Heres a project that will use Express 
 
 Import this repo to create a starting point for Node.js projects in repl.it, https://replit.com
 
